@@ -9,7 +9,7 @@
   },
   "license": "ISC",
   "dependencies": {
-    "artillery": "^2.0.0-38",
+    "artillery": "^2.0.4",
     "ws": "^7.4.6"
   }
 }
